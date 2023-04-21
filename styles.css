@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+div.mybox {
+  
+  border-left-width: 5px;
+  border-left-style: solid;
+  border-left-color: green;
+  font:white;
+	background:purple;
+	color:white;
+	font-size:20px;
+	padding:10px 10px 10px 10px;
+}
+.mybx{
+	
+}
